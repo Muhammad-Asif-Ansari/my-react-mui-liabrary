@@ -1,0 +1,13 @@
+.Button,
+.Pagination,
+.BasicSpeedDial,
+.HorizontalLinearStepper,
+.BasicGrid,
+.StandardImageList,
+.LeadingClickAway,
+.SimpleCollapse {
+  border: 2px solid greenyellow;
+  border-radius: 5px;
+  margin: 8px;
+  padding: 5px;
+}
